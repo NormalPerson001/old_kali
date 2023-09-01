@@ -1,0 +1,17 @@
+exifdata.com
+
+www.igolder.com/pgp/decryption/
+
+crakcing zip files:
+fcrack -u -D -p rockyou.txt crack.zip
+
+DMP files:
+pypykatz lsa minidump blablabla.DMP
+
+HASHING:
+hashes.com/en/decrypt/hash
+
+entering the session after login ssh in msfconsle:
+sessions -u 1
+then
+sessions 2
